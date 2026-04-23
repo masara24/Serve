@@ -1,4 +1,4 @@
-# Python_Serve
+# Serve
 
 ### Folder
 
@@ -11,7 +11,7 @@ there are different servers
 
 - bottle
 
-1. simple
+1. python
 2. download
 
 - flask
